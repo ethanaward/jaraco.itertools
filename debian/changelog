@@ -1,0 +1,5 @@
+jaraco.itertools (2.0.1-0ubuntu1~ubuntu17.04~ppa3) zesty; urgency=medium
+
+  * Change licensing
+
+ -- Mycroft Devs <devops@mycroft.ai>  Thu, 25 May 2017 13:14:08 -5000
