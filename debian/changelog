@@ -1,5 +1,5 @@
-jaraco.itertools (2.0.1-0ubuntu1~ubuntu17.04~ppa3) zesty; urgency=medium
+jaraco.itertools (2.0.1-1) UNRELEASED; urgency=medium
 
-  * Change licensing
+  * Initial Debian packaging
 
- -- Mycroft Devs <devops@mycroft.ai>  Thu, 25 May 2017 13:14:08 -5000
+ -- Mycroft Devs <devops@mycroft.ai>  Mon, 17 Jul 2017 10:14:08 -5000
